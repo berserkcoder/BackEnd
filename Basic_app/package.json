@@ -1,0 +1,19 @@
+{
+  "name": "basic_app",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "basic",
+    "app"
+  ],
+  "author": "Shreyansh Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
