@@ -17,7 +17,7 @@ app.use(cookieParser());
 
 // routes import
 import userRouter from './routes/user.routes.js';
-app.get("/ping", (req,res) => res.send("pong"));
+// app.get("/ping", (req,res) => res.send("pong"));
 
 
 // routes declaration
